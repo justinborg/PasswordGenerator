@@ -7,3 +7,5 @@ A simple Python script to Generate a Password
 - Lowercase Letters
 - Punctuation Symbols
 - Digits
+
+**Feel free to contribute :wink:**
